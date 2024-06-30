@@ -1,0 +1,1 @@
+podczas wykonywania zadania napotkalem sporo problemów z wykorzystywaniem bibliotek oraz używaniem formuły #ifdef nie udało się przez to w pełni wykonać zadania, jednak wszystkie funkcje dotyczące obliczania zbierzności w problemie collatza działają poprawnie i nie było problemu z ich wykonaniem.

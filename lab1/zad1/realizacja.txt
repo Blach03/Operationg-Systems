@@ -1,0 +1,1 @@
+zadanie zrealizowano na 100%. W pisaniu programu w języku C nie było żadnych problemów jednak przy tworzeniu pliku makefile trzeba było nauczyć się wielu nowych rzeczy.
